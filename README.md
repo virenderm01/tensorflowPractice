@@ -3,10 +3,12 @@
 ## Basics tutorials for python with tensorflow
 
 * ### PythonMatPlotCrashCourse.ipynb
-> i. Read data from csv file
-> ii. Plot a basic Line Char
-> iii. Create a bar chart
-> iv. Create a color chart
+```
+  - Read data from csv file
+  - Plot a basic Line Char
+  - Create a bar chart
+  - Create a color chart
+```
 * PythonPandasCrashCourse.ipynb: Basic tutorials for functions used from Pandas library of python.
 * PythonSciKitCrashCourse.ipynb	: Basic tutorials for functions used from SciKit library of python.
 * PythonTFBasics.ipynb          : Getting started with Tensorflow
